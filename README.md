@@ -1,7 +1,7 @@
 # GuessTheNumber
 More detailed console version of the "Guess the number (1-100)" game.  
 
-It includes the options to have the player guess the computer's number, as well as the computer guessing the player's number ( and in the case of the computer guessing - both randomly and not, the choice is left to the player). Oh, and different colors for the console too.  
+It includes the options to have the player guess the computer's number, as well as the computer guessing the player's number ( and in the case of the computer guessing - both randomly and not, the choice is left to the player) * different colors for the console.  
 [Source Code](guess_the_number.py)  
 
 Replit link to the game: https://replit.com/@gmtev1007/GuessTheNumber#main.py
